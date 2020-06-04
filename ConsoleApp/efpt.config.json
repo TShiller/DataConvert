@@ -1,0 +1,67 @@
+﻿{
+   "ContextClassName": "TestContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "ConsoleApp",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Chk]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Dru]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Fmu]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[GDDRU]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[GDFAN]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[IFINFO]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[IFStr]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Ill]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Lab]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Med]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Ope]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}
